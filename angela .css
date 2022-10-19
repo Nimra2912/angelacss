@@ -1,0 +1,33 @@
+ body{ text-align: center; background-color: whitesmoke; text-transform:capitalize; 
+       margin: auto; line-height: 2; }
+
+.hp { background-color:#E4F9F5;}
+
+h2{font-family:cursive ; color:orangered;  font-size: medium;}
+
+.end{background-color: rgb(147, 188, 143);}
+
+
+.cloud1{ margin-left:55%;}
+.cloud2{ margin-right: 45%;}
+h1{text-transform:uppercase; color:teal; font-family: 'Sacramento', cursive; font-size: 30px; }
+
+p{color:darkred;}
+
+
+h3{font-weight: 200; color: rgb(55, 0, 255);}
+
+.one {width: 60%; margin: 100px auto; text-align: left;}
+.two {width: 60%; margin: 100px auto; text-align: left;}
+.three {width: 60%; margin: 100px auto; text-align: left;}
+
+.profile{float: left; padding: 5%; border-radius: 50%; }
+.badminton{float: right; padding: 5%; border-radius: 50%;}
+.webdevelopment{ float: left;padding: 5%;border-radius: 50%; }
+
+
+.cp{ font-size:xx-small;}
+
+
+
+
